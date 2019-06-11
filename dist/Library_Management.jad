@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_201-b09 (Oracle Corporation)
+Class-Path: lib/mysql-connector-java-5.1.23-bin.jar lib/ConnectCodeBar
+ codeFontLibrary.jar lib/qrgen-1.0.jar lib/zxing-core-1.7.jar lib/zxin
+ g-j2se-1.7.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: library.management.LibraryManagement
+MIDlet-Jar-Size: 136889
+MIDlet-Jar-URL: Library_Management.jar
+Nokia-MIDlet-Category: Game
